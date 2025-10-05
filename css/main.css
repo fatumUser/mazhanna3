@@ -20,6 +20,9 @@
     text-decoration: none;
 }
 
+html {
+    overflow-x: hidden;
+}
 body {
     overflow-x: hidden;
     background-color: #050711;
