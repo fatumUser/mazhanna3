@@ -1101,6 +1101,10 @@ footer .btn-form {
         width: 122px;
     }
 
+    section {
+        min-height: 100vh;
+    }
+
     .section-main {
         position: relative;
         /*height: 675px;*/
